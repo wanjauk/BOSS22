@@ -1,8 +1,8 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# To modify the layout, see https://mmistakes.github.io/minimal-mistakes/docs/layouts/
 title: Home
-layout: home
+layout: single
 ---
 <!-- https://github.com/generalui/jekyll-image-size -->
 {% imagesize assets/images/Bioinformatica_Hub_Logo.svg:img?height=150 alt='Bioinformatics hub KE logo' %}
