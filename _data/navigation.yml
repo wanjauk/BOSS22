@@ -2,15 +2,15 @@
 main:
   - title: "Home"
     url: /
-   - title: "Speakers"
+  - title: "Speakers"
     url: /speakers/
   - title: "Register"
     url: /register/
-   - title: "Code of Conduct"
+  - title: "Code of Conduct"
     url: /codeofconduct/
   - title: "Committee"
     url: /committee/
   - title: "FAQ"
     url: /faq/
-- title: "Blog"
+  - title: "Blog"
     url: /blog/
