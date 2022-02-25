@@ -29,8 +29,9 @@ github_username:  bioinformatics-hub-ke
 
 
 # Build settings
-theme: minimal-mistakes-jekyll
-minimal-mistakes-skin: "neon"
+theme: "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 plugins:
   - jekyll-feed
   - jekyll-image-size
