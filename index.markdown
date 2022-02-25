@@ -4,6 +4,8 @@
 
 title: Home
 layout: splash
+toc: true
+toc_sticky: true
 ---
 <!-- https://github.com/generalui/jekyll-image-size -->
 {% imagesize assets/images/Bioinformatica_Hub_Logo.svg:img?height=150 alt='Bioinformatics hub KE logo' %}
