@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Committee
 permalink: /committee/
 ---
@@ -15,4 +15,3 @@ permalink: /committee/
 - Ruth Nanjala
 - Sarah Nyanchera
 - Susan Njoki
-
