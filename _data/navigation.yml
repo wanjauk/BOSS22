@@ -1,7 +1,7 @@
 # Specify order of pages in header
 main:
   - title: "Home"
-    url: /index/
+    url: /
   - title: "Schedule"
     url: /schedule/
   - title: "Speakers"
