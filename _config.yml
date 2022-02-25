@@ -40,7 +40,7 @@ header_pages:
   - register.markdown
   - sponsors.markdown
   - codeofconduct.markdown
-  - about.markdown
+  - committee.markdown
   - faq.markdown
 
 # Exclude from processing.
