@@ -5,6 +5,9 @@ title: Home
 layout: home
 ---
 
+![Bioinformatics hub logo](assets/images/Bioinformatica_Hub_Logo.svg){: width="100" }
+![OpenScience KE logo](assets/images/OpenScienceKe_Logo_transparent_regular.svg){: width="100" }
+
 # About
 
 The BOSS conference 2022 is the culmination of the 5 phase BOSS Events that have taken place from October 2021 - April 2022. 
