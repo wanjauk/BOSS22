@@ -29,8 +29,8 @@ github_username:  bioinformatics-hub-ke
 
 
 # Build settings
-theme: minima
-skin: solarized-dark
+theme: minimal-mistakes-jekyll
+minimal-mistakes-skin: "neon"
 plugins:
   - jekyll-feed
   - jekyll-image-size
