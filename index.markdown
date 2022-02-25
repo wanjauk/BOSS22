@@ -7,7 +7,7 @@ layout: splash
 ---
 <!-- https://github.com/generalui/jekyll-image-size -->
 {% imagesize assets/images/Bioinformatica_Hub_Logo.svg:img?height=150 alt='Bioinformatics hub KE logo' %}
-{% imagesize assets/images/OpenScienceKe_Logo_transparent_regular.svg:img?height=150 alt='OpenScience KE logo' %}
+{% imagesize assets/images/OpenScienceKe_Logo_black_regular.svg:img?height=150 alt='OpenScience KE logo' %}
 
 # About
 
