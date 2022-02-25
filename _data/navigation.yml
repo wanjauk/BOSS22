@@ -16,3 +16,5 @@ main:
     url: /committee/
   - title: "FAQ"
     url: /faq/
+- title: "Blog"
+    url: /blog/
