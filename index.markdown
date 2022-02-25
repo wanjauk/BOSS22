@@ -8,8 +8,6 @@ toc: true
 toc_sticky: true
 ---
 
-# About
-
 The BOSS conference 2022 is the culmination of the 5 phase BOSS Events that have taken place from October 2021 - April 2022. 
 It is a learning and networking event where our community members will get to present their work, learn from their mentors, 
 interact with other researchers and more.
