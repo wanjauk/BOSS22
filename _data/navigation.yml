@@ -1,0 +1,18 @@
+# Specify order of pages in header
+main:
+  - title: "Home"
+    url: /index/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Speakers"
+    url: /speakers/
+  - title: "Register"
+    url: /register/
+  - title: "Sponsors"
+    url: /sponsors/
+  - title: "Code of Conduct"
+    url: /codeofconduct/
+  - title: "Committee"
+    url: /committee/
+  - title: "FAQ"
+    url: /faq/
