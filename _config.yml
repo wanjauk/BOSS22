@@ -34,7 +34,8 @@ minimal_mistakes_skin: "neon" # "default", "air", "aqua", "contrast", "dark", "d
 
 plugins:
   - jekyll-feed
-
+  - jekyll-include-cache
+  
 # Logo to use on title page
 logo: "assets/images/Bioinformatica_Hub_Logo.svg"
 
