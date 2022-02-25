@@ -3,7 +3,7 @@
 # To modify the layout, see https://mmistakes.github.io/minimal-mistakes/docs/layouts/
 
 title: Home
-layout: splash
+layout: single
 toc: true
 toc_sticky: true
 ---
