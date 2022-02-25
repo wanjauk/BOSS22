@@ -24,3 +24,29 @@ interact with other researchers and more.
 - Abstract notification:
 
 - Registration open:
+
+# Schedule
+
+## 19 April 2022
+
+| Time | Speaker | Title/Event |
+|---   |---      |---          |
+|      |         |             |
+
+## 20 April 2022
+
+| Time | Speaker | Title/Event |
+|---   |---      |---          |
+|      |         |             |
+
+## 21 April 2022
+
+| Time | Speaker | Title/Event |
+|---   |---      |---          |
+|      |         |             |
+
+## 22 April 2022
+
+| Time | Speaker | Title/Event |
+|---   |---      |---          |
+|      |         |             |
