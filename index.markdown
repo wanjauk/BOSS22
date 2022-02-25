@@ -6,8 +6,8 @@ layout: home
 ---
 
 
-{{ /assets/images/Bioinformatica_Hub_Logo.svg:img?width=150 alt='Bioinformatics hub KE logo' }}
-{{ /assets/images/OpenScienceKe_Logo_transparent_regular.svg:img?width=150 alt='OpenScience KE logo' }}
+{% /assets/images/Bioinformatica_Hub_Logo.svg:img?width=150 alt='Bioinformatics hub KE logo' %}
+{% /assets/images/OpenScienceKe_Logo_transparent_regular.svg:img?width=150 alt='OpenScience KE logo' %}
 
 # About
 
