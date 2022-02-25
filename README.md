@@ -1,4 +1,36 @@
-# BOSS22
-Bioinformatics Hub of Kenya Conference, 19-22 April 2022
+# BOSS CONFERENCE 2022 APRIL 19 - 22 
+### Bioinformatics and open science empowerment in the era of genomics.
 
-The site is deployed using [helaili/jekyll-action](https://github.com/helaili/jekyll-action) as described on the [Jekyll website](https://jekyllrb.com/docs/github-pages/)
+
+## About
+The BOSS conference 2022 is the culmination of the 5 phase BOSSEvents that have taken place from October 2021 - April 2022. 
+It is a learning and networking event where our community memebrs will get to present their work, learn from their mentors, interact with other researchers and more.
+
+## Conference Committee members
+
+- Caleb Kibet: Chair
+- Pauline Karega
+- Margaret Wanjiku
+- Kennedy Mwangi
+- Michael Kofia
+- Mike Mwanga
+- Evans Mudibo
+- Stephen Tavasi
+- Ruth Nanjala
+- Sarah Nyanchera
+- Susan Njoki
+
+
+## Important Dates
+Conference sessions:  19-22 April 2022
+Registration open:  
+Abstract submission deadlines: 
+
+## Contact Us
+Reach us at bioinformaticshubofkenya@gmail.com
+
+## Site Information
+The site is made using [Jekyll](https://jekyllrb.com/) and is available under an [MIT license](LICENSE) 
+deployed using [helaili/jekyll-action](https://github.com/helaili/jekyll-action) as described on the 
+[Jekyll website](https://jekyllrb.com/docs/github-pages/). Contributions are welcome. Site content can be
+authored in [markdown](https://www.markdownguide.org/tools/jekyll/) or [html](https://developer.mozilla.org/en-US/docs/Web/HTML).
