@@ -30,7 +30,7 @@ github_username:  bioinformatics-hub-ke
 
 # Build settings
 theme: minima
-skin: dark
+skin: solarized-dark
 plugins:
   - jekyll-feed
   - jekyll-image-size
