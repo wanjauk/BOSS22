@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 title: Sponsors
 permalink: /sponsors/
 ---
