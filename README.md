@@ -35,10 +35,14 @@ Reach us at bioinformaticshubofkenya@gmail.com
 ## Site Information
 The site is made using [Jekyll](https://jekyllrb.com/) and is available under an [MIT license](LICENSE) 
 deployed using [helaili/jekyll-action](https://github.com/helaili/jekyll-action) as described on the 
-[Jekyll website](https://jekyllrb.com/docs/github-pages/). Contributions are welcome. Site content can be
-authored in [markdown](https://www.markdownguide.org/tools/jekyll/) or [html](https://developer.mozilla.org/en-US/docs/Web/HTML).
+[Jekyll website](https://jekyllrb.com/docs/github-pages/). The site uses the 
+[minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) theme.
 
-You can find out more info about customizing the site, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Contributions are welcome. Site content can be authored in [markdown](https://www.markdownguide.org/tools/jekyll/)
+or [html](https://developer.mozilla.org/en-US/docs/Web/HTML).
+
+You can find out more info about customizing the site, as well as basic Jekyll usage documentation at
+[jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for the theme used Minima at GitHub:
 [jekyll][jekyll-organization] /
