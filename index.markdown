@@ -16,3 +16,11 @@ It is a learning and networking event where our community members will get to pr
 interact with other researchers and more.
 
 # Schedule
+
+- Conference sessions: 19-22 April 2022
+
+- Abstract submission deadlines:
+
+- Abstract notification:
+
+- Registration open:
