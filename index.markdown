@@ -27,7 +27,7 @@ interact with other researchers and more.
 
 - Registration open:
 
-# Schedule
+# Conference Schedule
 
 ## 19 April 2022
 
