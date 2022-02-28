@@ -29,12 +29,11 @@ github_username:  bioinformatics-hub-ke
 minimal_mistakes_skin: "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Build settings
-remote-theme: bkmgit/minimal-mistakes@patch-1
+theme: minimal-mistakes
 
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-  - github-pages
   
 # Logo to use on title page
 logo: "assets/images/Bioinformatica_Hub_Logo.svg"
