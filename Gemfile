@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-#gem "jekyll", "~> 4.1.1"
+gem "jekyll", "~> 4.1.1"
 # Use minimal mistakes theme. You may change this to anything you like.
 #gem "minimal-mistakes-jekyll", "~>4.24.0"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
