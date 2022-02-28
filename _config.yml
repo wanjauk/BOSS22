@@ -29,7 +29,7 @@ github_username:  bioinformatics-hub-ke
 minimal_mistakes_skin: "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Build settings
-remote_theme: bkmgit/minimal-mistakes@patch-1
+theme: minimal-mistakes-jekyll
 
 plugins:
   - jekyll-feed
