@@ -34,6 +34,7 @@ remote_theme: bkmgit/minimal-mistakes@patch-1
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - github-pages
   
 # Logo to use on title page
 logo: "assets/images/Bioinformatica_Hub_Logo.svg"
