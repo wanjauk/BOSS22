@@ -26,11 +26,10 @@ baseurl: "/BOSS22" # the subpath of your site, e.g. /blog
 url: "https://bioinformatics-hub-ke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BioinfoHub_KE
 github_username:  bioinformatics-hub-ke
-
+minimal_mistakes_skin: "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Build settings
-theme: "minimal-mistakes-jekyll"
-minimal_mistakes_skin: "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: bkmgit/minimal-mistakes@patch-1
 
 plugins:
   - jekyll-feed
