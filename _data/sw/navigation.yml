@@ -1,0 +1,14 @@
+# Specify order of pages in header
+main:
+  - title: "Mwanzo"
+    url: /
+  - title: "Wasemaji"
+    url: /speakers/
+  - title: "Jiandikisha"
+    url: /register/
+  - title: "Desturi za Miendo"
+    url: /codeofconduct/
+  - title: "Halamashauri"
+    url: /committee/
+  - title: "Swali"
+    url: /faq/

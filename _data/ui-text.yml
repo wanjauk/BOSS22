@@ -50,6 +50,7 @@ en: &DEFAULT_EN
   search_algolia_no_results  : "No results"
   results_found              : "Result(s) found"
   back_to_top                : "Back to top"
+  sponsors                   : "Sponsors"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -2014,6 +2015,7 @@ sw: &DEFAULT_SW
   search_algolia_no_results  : "Hakuna matokeo"
   results_found              : "Tumepata"
   back_to_top                : "Rudi juu"
+  sponsors                   : "Wafadhili"
 sw-KE:
   <<: *DEFAULT_SW
 sw-TZ:
