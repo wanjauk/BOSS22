@@ -37,7 +37,11 @@ The site is made using [Jekyll](https://jekyllrb.com/) and is available under an
 deployed using [helaili/jekyll-action](https://github.com/helaili/jekyll-action) as described on the 
 [Jekyll website](https://jekyllrb.com/docs/github-pages/). The site uses the 
 [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) theme.
-
+Multilingualism is enabled using [polyglot](https://github.com/untra/polyglot/) 
+following the excellent
+[post](https://leo3418.github.io/collections/multilingual-jekyll-site) by
+[Leo3418](https://github.com/Leo3418)
+  
 Contributions are welcome. Site content can be authored in [markdown](https://www.markdownguide.org/tools/jekyll/)
 or [html](https://developer.mozilla.org/en-US/docs/Web/HTML).
 

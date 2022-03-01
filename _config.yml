@@ -28,16 +28,39 @@ twitter_username: BioinfoHub_KE
 github_username:  bioinformatics-hub-ke
 minimal_mistakes_skin: "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+exclude:
+  - "README.md"
+
 # Build settings
 theme: minimal-mistakes-jekyll
 
 plugins:
-  - jekyll-feed
-  - jekyll-include-cache
-  
+  - jekyll-polyglot
+
+# minimal-mistakes-jekyll
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bioinformatics-hub-ke/BOSS22"
+
+repository:  "bioinformatics-hub-ke/BOSS22"
+# Hide atom feed
+atom_feed:
+  hide: true
+
+# jekyll-polyglot
+languages: ["sw", "en"]
+default_lang: "sw"
+exclude_from_localization:
+  - "assets/images"
+parallel_localization: false
+sass:
+  sourcemap: never
 # Logo to use on title page
 logo: "assets/images/Bioinformatica_Hub_Logo.svg"
-
+# Enable search
+search: false
 # Specify order of pages
 header_pages:
   - index.markdown
