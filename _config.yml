@@ -51,7 +51,7 @@ atom_feed:
 
 # jekyll-polyglot
 languages: ["sw", "en"]
-default_lang: "sw"
+default_lang: "en"
 exclude_from_localization:
   - "assets/images"
 parallel_localization: false
