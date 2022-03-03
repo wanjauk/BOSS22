@@ -50,10 +50,9 @@ atom_feed:
   hide: false
 
 # jekyll-polyglot
-languages: ["sw", "en"]
+# ensure default language is put first
+languages: ["en", "sw"]
 default_lang: "en"
-exclude_from_localization:
-  - "assets/images"
 parallel_localization: false
 sass:
   sourcemap: never

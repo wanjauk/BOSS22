@@ -14,9 +14,7 @@ gem "minimal-mistakes-jekyll", "~>4.24.0"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 #gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem "jekyll-polyglot", "~> 1.5.0"
-end
+gem "jekyll-polyglot", "~> 1.5.0"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
