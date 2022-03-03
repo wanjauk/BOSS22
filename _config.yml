@@ -54,7 +54,7 @@ languages: ["sw", "en"]
 default_lang: "en"
 exclude_from_localization:
   - "assets/images"
-parallel_localization: true
+parallel_localization: false
 sass:
   sourcemap: never
 # Logo to use on title page
