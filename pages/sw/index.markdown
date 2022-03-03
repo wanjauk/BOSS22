@@ -14,7 +14,7 @@ Mkutano wa BOSS 2022 ni tukio wa tano na wa mwisho za BOSS kutoka Oktoba 2021 ha
 
 # Tarehe Muhimu
 
-- Mkutano: 19-22 Aprili 2022
+- Mkutano: 26-29 Aprili 2022
 
 - Mwisho wa kutuma muhtasari:
 
@@ -24,25 +24,25 @@ Mkutano wa BOSS 2022 ni tukio wa tano na wa mwisho za BOSS kutoka Oktoba 2021 ha
 
 # Ratiba ya Mkutano
 
-## 19 Aprili 2022
+## 26 Aprili 2022
 
 | Saa  | Msemaji | Kichwa/Utenzi |
 |---   |---      |---            |
 |      |         |               |
 
-## 20 Aprili 2022
+## 27 Aprili 2022
 
 | Saa  | Msemaji | Kichwa/Utenzi |
 |---   |---      |---            |
 |      |         |               |
 
-## 21 Aprili 2022
+## 28 Aprili 2022
 
 | Saa  | Msemaji | Kichwa/Utenzi |
 |---   |---      |---            |
 |      |         |               |
 
-## 22 Aprili 2022
+## 29 Aprili 2022
 
 | Saa  | Msemaji | Kichwa/Utenzi |
 |---   |---      |---            |

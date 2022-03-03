@@ -16,7 +16,7 @@ interact with other researchers and more.
 
 # Important Dates
 
-- Conference sessions: 19-22 April 2022
+- Conference sessions: 26-29 April 2022
 
 - Abstract submission deadlines:
 
@@ -26,25 +26,25 @@ interact with other researchers and more.
 
 # Conference Schedule
 
-## 19 April 2022
+## 26 April 2022
 
 | Time | Speaker | Title/Event |
 |---   |---      |---          |
 |      |         |             |
 
-## 20 April 2022
+## 27 April 2022
 
 | Time | Speaker | Title/Event |
 |---   |---      |---          |
 |      |         |             |
 
-## 21 April 2022
+## 28 April 2022
 
 | Time | Speaker | Title/Event |
 |---   |---      |---          |
 |      |         |             |
 
-## 22 April 2022
+## 29 April 2022
 
 | Time | Speaker | Title/Event |
 |---   |---      |---          |
