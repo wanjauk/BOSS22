@@ -62,7 +62,7 @@ parallel_localization: false
 sass:
   sourcemap: never
 # Logo to use on title page
-logo: "assets/images/BOSS_logo_G.png"
+logo: "assets/images/BOSS_logo_G_large.svg"
 # Enable search
 search: false
 # Specify order of pages
