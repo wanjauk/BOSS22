@@ -5,12 +5,12 @@ permalink: /register/
 lang: en
 ---
 
-## Conference Registration
+## Jisajili Mkutano
 
-Please [register here](https://www.eventbrite.com/e/bioinformatics-and-open-science-skills-conference-2022-tickets-289432679937) to reserve your slot for the BOSSCon 2022. 
+[Jisajili hapa](https://www.eventbrite.com/e/bioinformatics-and-open-science-skills-conference-2022-tickets-289432679937) kuhudhuria mkutano wa BOSS Con 2022. 
+ 
+ Mwanzo wa kujisajili ni tarehe 7 Machi 2022. 
 
-Registration Opens on the 7th March 2022. 
-
-## Abtract Submission
+## Kutuma muhtasari:
 
 <Add a call for abstract submissions>
