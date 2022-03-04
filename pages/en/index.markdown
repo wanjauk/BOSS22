@@ -18,11 +18,11 @@ interact with other researchers and more.
 
 - Conference sessions: 26-29 April 2022
 
-- Abstract submission deadlines:
+- Abstract submission deadlines: 4th April 2022
 
-- Abstract notification:
+- Abstract notification: 18th April 2022
 
-- Registration open:
+- Registration open: 7th March 2022
 
 # Conference Schedule
 
