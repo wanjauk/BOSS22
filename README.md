@@ -1,4 +1,4 @@
-# BOSS CONFERENCE 2022 APRIL 19 - 22 
+# BOSS CONFERENCE 2022 APRIL 26 - 29
 ### Bioinformatics and open science empowerment in the era of genomics.
 
 
@@ -14,20 +14,20 @@ interact with other researchers and more.
 - Margaret Wanjiku
 - Kennedy Mwangi
 - Michael Kofia
-- Mike Mwanga
-- Evans Mudibo
-- Stephen Tavasi
+- Festus Nyasimi
+- David Kiragu
+- Benson Muite
 - Ruth Nanjala
 - Sarah Nyanchera
-- Susan Njoki
+
 
 
 ## Important Dates
-Conference sessions:  19-22 April 2022
+Conference sessions:  26-29 April 2022
 
-Registration open:  
+Registration open: 4th March 2022
 
-Abstract submission deadlines: 
+Abstract submission deadlines: 4th April 2022
 
 ## Contact Us
 Reach us at bioinformaticshubofkenya@gmail.com
