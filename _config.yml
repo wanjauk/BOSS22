@@ -62,7 +62,7 @@ parallel_localization: false
 sass:
   sourcemap: never
 # Logo to use on title page
-logo: "assets/images/Bioinformatica_Hub_Logo.svg"
+logo: "assets/images/BOSS_logo_G.png"
 # Enable search
 search: false
 # Specify order of pages
