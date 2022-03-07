@@ -29,7 +29,7 @@ Violation reports should be sent to this email: bioinformaticshubofkenya@gmail.c
 - Sexual or violent display of images or any media content in any event.
 
 ## Enforcement
-To avoid any situation that breaches our Code of Conduct, we advise our members to not post anything that doesn’t pertain to the events on our online platforms (Slack) or community forums without any approval from the organising committee.
+To avoid any situation that breaches our Code of Conduct, we advise our members make posts on our online platforms that are relevant to group aims and activities.  If in doubt as to whether a post to our online platforms (Slack) or community forums pertains to the events, seek approval from the organising committee.
 
 Members who indulge in unacceptable behavior will be summoned personally by a member of the steering committee and will be asked to stop immediately. The offending member(s) will be suspended from all future events. The suspension can only be revoked by a disciplinary committee during the review of the report. In case the outcome is not satisfactory to the member, they are given another chance to appeal their case.
 
