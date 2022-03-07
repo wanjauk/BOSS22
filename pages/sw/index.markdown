@@ -14,13 +14,13 @@ Mkutano wa BOSS 2022 ni tukio wa tano na wa mwisho za BOSS kutoka Oktoba 2021 ha
 
 # Tarehe Muhimu
 
-- Mkutano: 26-29 Aprili 2022
+- Mkutano kwa mtandao: 26-29 Aprili 2022
 
-- Mwisho wa kutuma muhtasari:
+- Mwisho wa kutuma muhtasari: 4 Aprili 2022
 
-- Kauli ya Wasemaji:
+- Kauli ya Wasemaji: 18 Aprili 2022
 
-- Aanzisho wa Usajili:
+- Aanzisho wa Usajili: 7 Machi 2022
 
 # Ratiba ya Mkutano
 
