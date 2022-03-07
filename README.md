@@ -1,4 +1,5 @@
 # BOSS CONFERENCE 2022 APRIL 26 - 29
+
 ### Bioinformatics and open science empowerment in the era of genomics.
 
 
@@ -19,7 +20,6 @@ interact with other researchers and more.
 - Benson Muite
 - Ruth Nanjala
 - Sarah Nyanchera
-
 
 
 ## Important Dates
