@@ -16,7 +16,7 @@ interact with other researchers and more.
 
 # Important Dates
 
-- Conference sessions: 26-29 April 2022
+- Online conference sessions: 26-29 April 2022
 
 - Abstract submission deadlines: 4th April 2022
 
