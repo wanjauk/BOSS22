@@ -22,7 +22,7 @@ interact with other researchers and more.
 
 - Abstract notification: 18th April 2022
 
-- Registration open: 7th March 2022
+- Registration open: 10th March 2022
 
 # Conference Schedule
 
