@@ -33,7 +33,7 @@ Ni mhazili wa BHKi, shirika alianzisha na wengine.  Ni mbingu wa sayansi ya msin
 
 
 ## Benson Muite
-![Mchoro wa Benson Muite](assets/images/Benson.svg){: height="250" }
+![Mchoro wa Benson Muite]({{ site.baseurl }}/assets/images/Benson.svg){: height="150" width="150" }
 
 Benson Muite anatengeneza programmu kutoka Nairobi, Kenya. Anapenda kutumia kichakato kizito kurekebisha shida kubwa za data na hesabu. Pia, anapenda kutengeneza na kutumia programmu huru na wazi.
 

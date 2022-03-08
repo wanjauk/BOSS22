@@ -32,7 +32,7 @@ lang: en
 A co-founder of BHKi, holding the role of organizing secretary in BHKi, a genomics guru currently working with IITA at ILRI, and passionate about capacity building. Ask him anything to do with R and you'll be set.
 
 ## Benson Muite
-![Avatar for Benson Muite](assets/images/Benson.svg){: height="250" }
+![Avatar for Benson Muite]({{ site.baseurl }}/assets/images/Benson.svg){: height="150" width="150" }
 
 Benson Muite is a software developer based in Nairobi, Kenya. He has interests in high performance computing and enjoys building and using open source software.
   
