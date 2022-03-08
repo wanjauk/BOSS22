@@ -33,9 +33,10 @@ Ni mhazili wa BHKi, shirika alianzisha na wengine.  Ni mbingu wa sayansi ya msin
 
 
 ## Benson Muite
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Mchoro wa Benson Muite]({{ site.baseurl }}/assets/images/Benson.svg){: height="150" width="150" }
 
-<!--add bio here-->
+Benson Muite anatengeneza programmu kutoka Nairobi, Kenya. Anapenda kutumia kichakato kizito kurekebisha shida kubwa za data na hesabu. Pia, anapenda kutengeneza na kutumia programmu huru na wazi.
+
   
 ## Festus Nyasimi
 ![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
