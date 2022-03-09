@@ -19,7 +19,7 @@ lang: en
 ## Margaret Wanjiku
 ![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
 
-<!--add bio here-->
+Margaret serves the role of secretary to the BHKI steering committee. She is a bioinformatician with a keen interest in omics and big data analysis.
   
 ## Kennedy Mwangi
 ![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
