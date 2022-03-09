@@ -2,11 +2,11 @@
     {% assign lang_name = site.data[lang].l10n.lang_name %}
     {% if lang != site.active_lang %}
       {% if lang != site.default_lang %}
-      <a href="{{ site.url }}/{{ site.baseurl }}/{{ lang }}/">
+      <a href="{{ site.url }}/{{ lang }}/">
                {{ lang_name }}
       </a>
       {% else %}
-      <a href="{{ site.url }}/{{ site.baseurl }}/">
+      <a href="{{ site.url }}/">
 	       {{ lang_name }}
       </a>
       {% endif %}
