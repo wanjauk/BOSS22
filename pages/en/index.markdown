@@ -24,28 +24,98 @@ interact with other researchers and more.
 
 - Registration open: 10th March 2022
 
-# Conference Schedule
+# Tentative Conference Schedule
 
-## 26 April 2022
+## Proposed Conference Themes
+- Open Science
+    - Reproducible Research
+    - Research Data Management
+    - Project Planning and Management
+    - Workflow Management Systems
+    - Open source software/ tools
+    - Ethical aspects in data science
+- Genomics
+    - Pathogen Genomics
+    - Human/ Animal Genomics
+    - Plant Genomics
+    - Evolutionary Genomics
+- One Health
+    - Antibiotic-resistant germs
+    - Vector-borne diseases
+    - Diseases in food animals
+    - Human-animal bond
+    - Contamination of water
+- Unconference
+    - Careers in open science
+    - Alternative career paths in genomics
+    - Working and studying outside Kenya
 
-| Time | Speaker | Title/Event |
-|---   |---      |---          |
-|      |         |             |
 
-## 27 April 2022
+## Day 1, Tuesday, April 26, 2022
 
-| Time | Speaker | Title/Event |
-|---   |---      |---          |
-|      |         |             |
 
-## 28 April 2022
+|Start (EAT)|End (EAT)|Session 1: Open Science|Title|Presenter|Chair|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14:00|14:20|Opening session|Opening remarks (Introduction to the conference)| |Chair:|
+|14:10| | |What is BHKi and Open Science KE| | |
+|14:20|14:50|Keynote 1: Open science| | |Chair:|
+|14:50|15:00|Break| | | |
+|15:00| |Session 1| | |Chair:|
+|15:15| |Session 2| | | |
+|15:30| |Session 3| | | |
+|15:45| |Q&A| | | |
+|15:55|16:00|Break| | | |
+|16:00| |Session 4| | |Chair:|
+|16:15| |Session 5| | | |
+|16:30| |Session 6| | | |
+|16:45| |Q&A| | | |
+|17:00|18:00|Networking hour| | | |
+| | | | | | |
 
-| Time | Speaker | Title/Event |
-|---   |---      |---          |
-|      |         |             |
+## Day 2, Wednesday, April 27, 2022
 
-## 29 April 2022
+|Start (EAT)|End (EAT)|Session 2: Genomics|Title|Presenter|Chair|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14:00|14:40|Keynote 2: Genomics| | |Chair:|
+|14:40|14:55|Session 1| | | |
+|14:55|15:00|Break| | | |
+|15:00| |Session 2| | |Chair:|
+|15:15| |Session 3| | | |
+|15:30| |Session 4| | | |
+|15:45| |Q&A| | | |
+|15:55|16:00|Break| | | |
+|16:00| |Session 5| | |Chair:|
+|16:15| |Session 6| | | |
+|16:30| |Session 7| | | |
+|16:45| |Q&A| | | |
+|17:00|18:00|Networking hour| | | |
+| | | | | | |
 
-| Time | Speaker | Title/Event |
-|---   |---      |---          |
-|      |         |             |
+## Day 3, Thursday, April 28, 2022
+|Start (EAT)|End (EAT)|Session 3: One Health|Title|Presenter|Chair|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14:00|14:40|Keynote 3: One Health| | |Chair:|
+|14:40|14:55|Session 1| | | |
+|14:55|15:00|Break| | | |
+|15:00| |Session 2| | |Chair:|
+|15:15| |Session 3| | | |
+|15:30| |Session 4| | | |
+|15:45| |Q&A| | | |
+|15:55|16:00|Break| | | |
+|16:00| |Session 5| | |Chair:|
+|16:15| |Session 6| | | |
+|16:30| |Session 7| | | |
+|16:45| |Q&A| | | |
+|17:00|18:00|Networking hour| | | |
+| | | | | | |
+
+## Day 4, Friday, April 29, 2022
+|Start (EAT)|End (EAT)|Session 4: Unconference|Title|Presenter|Chair:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14:00|14:55|Session 1| | |Chair:|
+|14:55|15:00|Break| | | |
+|15:00|15:55|Session 2| | |Chair:|
+|15:55|16:00|Break| | | |
+|16:00|17:00|Session 3| | |Chair:|
+|17:00|18:00|Networking hour| | | |
+| | | | | | |
