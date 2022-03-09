@@ -27,7 +27,7 @@ url: "https://bioinformatics-hub-ke.github.io" # the base hostname & protocol fo
 twitter_username: BioinfoHub_KE
 github_username:  bioinformatics-hub-ke
 minimal_mistakes_skin_dark: "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-minimal_mistakes_skin_light: "sunrise"
+minimal_mistakes_skin_light: "contrast"
 
 exclude:
   - "README.md"
