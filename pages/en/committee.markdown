@@ -17,7 +17,7 @@ Caleb Kibet is a bioinformatics researcher, a lecturer, an open science advocate
 Pauline Karega is a bioinformatics student and researcher working on evolutionary bioilogy. She is a co-founder of the Bioinformatics Hub of Kenya initiative (BHKi) and enjoys working at a project management capacity. She is passionate about capacity building in bioinformatics and data science, and community outreach. She is a certified Carpentries instructor and is actively involved in carpentries training. Outside science she enjoys performing arts.    
   
 ## Margaret Wanjiku
-![Margaret's Profile Photo](https://bhki.org/wp-content/uploads/2021/01/4ry06f-1-150x150.jpg)
+![Margaret's Profile Photo]({{ site.baseurl }}/assets/images/MWanjiku-profile-pic.jpg){: height="150" width="150" }
 
 Margaret serves the role of secretary to the BHKI steering committee. She is a bioinformatician with a keen interest in omics and big data analysis.
   
