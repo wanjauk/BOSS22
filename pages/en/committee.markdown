@@ -12,9 +12,9 @@ lang: en
 Caleb Kibet is a bioinformatics researcher, a lecturer, an open science advocate, and a mentor. Caleb is currently a bioinformatician at _icipe_ and teaches bioinformatics at Pwani University. His research interests are in regulatory genomics, where he uses machine learning and statistical modelling to understand and predict transcription factor binding sites and their link to diseases. Caleb is also a founder of OpenScienceKE, an initiative that promotes open approaches to bioinformatics research in Kenya. Caleb is passionate about open science and reproducible bioinformatics research. He continually seeks out opportunities to spread open science, especially within the bioinformatics community in Kenya
   
 ## Pauline Karega
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Add Profile Photo](https://bhki.org/wp-content/uploads/2021/01/1592590261534.jpeg)
 
-<!--add bio here-->
+Pauline Karega is a bioinformatics student and researcher working on evolutionary bioilogy. She is a co-founder of the Bioinformatics Hub of Kenya initiative (BHKi) and enjoys working at a project management capacity. She is passionate about capacity building in bioinformatics and data science, and community outreach. She is a certified Carpentries instructor and is actively involved in carpentries training. Outside science she enjoys performing arts.    
   
 ## Margaret Wanjiku
 ![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
