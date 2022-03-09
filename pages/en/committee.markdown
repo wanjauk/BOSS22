@@ -7,12 +7,12 @@ toc_sticky: true
 lang: en
 ---
 ## Caleb Kibet (Chair)
-![Caleb's Profile Photo](https://www.h3abionet.org/images/2019/nodes/45_photo_.jpg)
+![Caleb's Profile Photo]({{ site.baseurl }}/assets/images/Caleb.jpg){: height="150" width="150" }
 
 Caleb Kibet is a bioinformatics researcher, a lecturer, an open science advocate, and a mentor. Caleb is currently a bioinformatician at _icipe_ and teaches bioinformatics at Pwani University. His research interests are in regulatory genomics, where he uses machine learning and statistical modelling to understand and predict transcription factor binding sites and their link to diseases. Caleb is also a founder of OpenScienceKE, an initiative that promotes open approaches to bioinformatics research in Kenya. Caleb is passionate about open science and reproducible bioinformatics research. He continually seeks out opportunities to spread open science, especially within the bioinformatics community in Kenya
   
 ## Pauline Karega
-![Pauline's Profile Photo](https://bhki.org/wp-content/uploads/2021/01/1592590261534.jpeg)
+![Pauline's Profile Photo]({{ site.baseurl }}/assets/images/Pauline.jpg){: height="150" width="150" }
 
 Pauline Karega is a bioinformatics student and researcher working on evolutionary bioilogy. She is a co-founder of the Bioinformatics Hub of Kenya initiative (BHKi) and enjoys working at a project management capacity. She is passionate about capacity building in bioinformatics and data science, and community outreach. She is a certified Carpentries instructor and is actively involved in carpentries training. Outside science she enjoys performing arts.    
   
