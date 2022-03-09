@@ -75,7 +75,6 @@ header_pages:
   - sponsors.markdown
   - codeofconduct.markdown
   - committee.markdown
-  - faq.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
