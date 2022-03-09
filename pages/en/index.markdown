@@ -24,7 +24,32 @@ interact with other researchers and more.
 
 - Registration open: 10th March 2022
 
-# Conference Schedule
+# Tentative Conference Schedule
+
+## Proposed Conference Themes
+- Open Science
+    - Reproducible Research
+    - Research Data Management
+    - Project Planning and Management
+    - Workflow Management Systems
+    - Open source software/ tools
+    - Ethical aspects in data science
+- Genomics
+    - Pathogen Genomics
+    - Human/ Animal Genomics
+    - Plant Genomics
+    - Evolutionary Genomics
+- One Health
+    - Antibiotic-resistant germs
+    - Vector-borne diseases
+    - Diseases in food animals
+    - Human-animal bond
+    - Contamination of water
+- Unconference
+    - Careers in open science
+    - Alternative career paths in genomics
+    - Working and studying outside Kenya
+
 
 ## Day 1, Tuesday, April 26, 2022
 
@@ -35,14 +60,14 @@ interact with other researchers and more.
 |14:10| | |What is BHKi and Open Science KE| | |
 |14:20|14:50|Keynote 1: Open science| | |Chair:|
 |14:50|15:00|Break| | | |
-|15:00|15:55|Reproducible Research| | |Chair:|
-|15:15| |Research Data Mangement| | | |
-|15:30| |Project Planning and Management| | | |
+|15:00| |Session 1| | |Chair:|
+|15:15| |Session 2| | | |
+|15:30| |Session 3| | | |
 |15:45| |Q&A| | | |
 |15:55|16:00|Break| | | |
-|16:00|17:00|Workflow Management Systems| | |Chair:|
-|16:15| |Open source software/ tools| | | |
-|16:30| |Ethical aspcets in data science| | | |
+|16:00| |Session 4| | |Chair:|
+|16:15| |Session 5| | | |
+|16:30| |Session 6| | | |
 |16:45| |Q&A| | | |
 |17:00|18:00|Networking hour| | | |
 | | | | | | |
@@ -52,17 +77,17 @@ interact with other researchers and more.
 |Start (EAT)|End (EAT)|Session 2: Genomics|Title|Presenter|Chair|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |14:00|14:40|Keynote 2: Genomics| | |Chair:|
-|14:40|14:55|Pathogen Genomics| | | |
+|14:40|14:55|Session 1| | | |
 |14:55|15:00|Break| | | |
-|15:00|15:55|Pathogen Genomics| | |Chair:|
-|15:15| |Human/ Animal Genomics| | | |
-|15:30| |Human/ Animal Genomics| | | |
-|15:45| |Pathogen and Human/ Animal Genomics Q&A| | | |
+|15:00| |Session 2| | |Chair:|
+|15:15| |Session 3| | | |
+|15:30| |Session 4| | | |
+|15:45| |Q&A| | | |
 |15:55|16:00|Break| | | |
-|16:00|17:00|Plant Genomics| | |Chair:|
-|16:15| |Plant Genomics| | | |
-|16:30| |Evolutionary Genomics| | | |
-|16:45| |Plant and Evoluitionary Genomics Q&A| | | |
+|16:00| |Session 5| | |Chair:|
+|16:15| |Session 6| | | |
+|16:30| |Session 7| | | |
+|16:45| |Q&A| | | |
 |17:00|18:00|Networking hour| | | |
 | | | | | | |
 
@@ -70,27 +95,27 @@ interact with other researchers and more.
 |Start (EAT)|End (EAT)|Session 3: One Health|Title|Presenter|Chair|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |14:00|14:40|Keynote 3: One Health| | |Chair:|
-|14:40|14:55|One Health : Antibiotic-resistant germs| | | |
+|14:40|14:55|Session 1| | | |
 |14:55|15:00|Break| | | |
-|15:00|15:55|One Health: Antibiotic-resistant germs| | |Chair:|
-|15:15| |One Health: Vector-borne diseases| | | |
-|15:30| |One Health: Vector-borne diseases| | | |
+|15:00| |Session 2| | |Chair:|
+|15:15| |Session 3| | | |
+|15:30| |Session 4| | | |
 |15:45| |Q&A| | | |
 |15:55|16:00|Break| | | |
-|16:00|17:00|One Health: Diseases in food animals| | |Chair:|
-|16:15| |One Health: Human-animal bond| | | |
-|16:30| |One Health: Contamination of water| | | |
+|16:00| |Session 5| | |Chair:|
+|16:15| |Session 6| | | |
+|16:30| |Session 7| | | |
 |16:45| |Q&A| | | |
 |17:00|18:00|Networking hour| | | |
 | | | | | | |
 
 ## Day 4, Friday, April 29, 2022
-|Start (EAT)|End (EAT)|Session 4: Unconference (open panel discussions)|Title|Presenter|Chair:|
+|Start (EAT)|End (EAT)|Session 4: Unconference|Title|Presenter|Chair:|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|14:00|14:55|Careers in open science: research software engineering, reserach data managemnet, community managers etc| | |Chair:|
+|14:00|14:55|Session 1| | |Chair:|
 |14:55|15:00|Break| | | |
-|15:00|15:55|Alternative career paths in genomics: data science, business in genomics, science communication eg podcasting| | |Chair:|
+|15:00|15:55|Session 2| | |Chair:|
 |15:55|16:00|Break| | | |
-|16:00|17:00|Working and studying outside Kenya: experiences and opportunities| | |Chair:|
+|16:00|17:00|Session 3| | |Chair:|
 |17:00|18:00|Networking hour| | | |
 | | | | | | |
