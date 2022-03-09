@@ -22,8 +22,8 @@ title: BOSS 2022
 email: bioinformaticshubofkenya@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bioinformatics Hub of Kenya BOSS Conference, 26-29 April 2022
-baseurl: "/BOSS22" # the subpath of your site, e.g. /blog
-url: "https://bioinformatics-hub-ke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://bosscon2022.bhki.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BioinfoHub_KE
 github_username:  bioinformatics-hub-ke
 minimal_mistakes_skin_dark: "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -75,7 +75,6 @@ header_pages:
   - sponsors.markdown
   - codeofconduct.markdown
   - committee.markdown
-  - faq.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
