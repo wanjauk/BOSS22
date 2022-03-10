@@ -24,9 +24,7 @@ interact with other researchers and more.
 
 - Registration open: 10th March 2022
 
-# Tentative Conference Schedule
-
-## Proposed Conference Themes
+# Conference Themes
 
 - Open Science
     - Reproducible Research
@@ -51,6 +49,7 @@ interact with other researchers and more.
     - Alternative career paths in genomics
     - Working and studying outside Kenya
 
+# Tentative Conference Schedule
 
 ## Day 1, Tuesday, April 26, 2022
 
