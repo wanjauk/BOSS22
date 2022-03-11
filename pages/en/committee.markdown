@@ -44,7 +44,7 @@ Festus is a Bioinformatician and a Data Scientist using statistical tools and co
 ## David Kiragu
 ![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
 
-<!--add bio here-->
+David is a bioinformatic student with a keen interest in both genomic data production and using computational skill sets to answer research questions in the field zoonotic diseases and wildlife conservation. He is a BiXCop 2021 fellow and has an background in Bioinformatics, Molecular Biology and Microbiology. Due to this special interest in capacity development and community outreach, he is also a co-founder and trainer at Bioinformatics Hub of Kenya Initiative(BHKi) and African International Biotechnology and Biomedical Conference. His current affiliation is at the Institute of Primate Research(IPR), Kenya. Fun activities: Cyclying and travelling. 
   
 ## Ruth Nanjala
 ![Nanjala's Photo]({{ site.baseurl }}/assets/images/Ruth.Nanjala.photograph.jpg){: height="150" width="150" } 
