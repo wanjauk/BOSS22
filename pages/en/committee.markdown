@@ -49,7 +49,7 @@ Festus is a Bioinformatician and a Data Scientist using statistical tools and co
 ## Ruth Nanjala
 ![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
 
-<!--add bio here-->
+Nanjala is a junior bioinformatician at ICIPE. She currently leads the bionformatics mentorship and incubation program, aimed at increasing the number of well trained bioinformaticians to support genomics research. She is interested in understanding the genetics of HLA and its association to complex immune mediated traits. She is also passionate about capacity building and she has been involved in different projects that support capacity building. Nanjala has formal training in Bioinformatics and Microbiology.
   
 ## Sarah Nyanchera
 ![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
