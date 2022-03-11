@@ -41,9 +41,21 @@ plugins:
 # minimal-mistakes-jekyll
 footer:
   links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bioinfohub_ke"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bioinformatics-hub-ke/BOSS22"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/bioinformatics-hub-of-kenya-initiative-bhki"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:bioinformaticshubofkenya@gmail.com"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCWvCsVW7BF3Nml5VpLOdU5g"
 
 repository:  "bioinformatics-hub-ke/BOSS22"
 # Hide atom feed
