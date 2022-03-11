@@ -47,7 +47,7 @@ Festus is a Bioinformatician and a Data Scientist using statistical tools and co
 <!--add bio here-->
   
 ## Ruth Nanjala
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Nanjala's Photo]({{ site.baseurl }}/assets/images/Ruth.Nanjala.photograph.jpg){: height="150" width="150" } 
 
 <!--add bio here-->
   
