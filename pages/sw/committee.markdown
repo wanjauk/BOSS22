@@ -49,9 +49,9 @@ Festus ni Mwanasayansi wa Data anayetumia zana za takwimu na mbinu za kukokotoa 
 <!--add bio here-->
   
 ## Ruth Nanjala
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Picha ya Nanjala]({{ site.baseurl }}/assets/images/Ruth.Nanjala.photograph.jpg){: height="150" width="150" }
 
-<!--add bio here-->
+Nanjala ni mwana bioinfomatiki katita taasisi ya utafiti ya ICIPE. Anaiongoza programu ya kuwafunza na kuwashauri wanasayansi katika maswala ya bioinfomatiki, ili wawe na uwezo wa kuchangia utafiti wa jenomiki. Nanjala ana nia ya kuielewa jenetiki ya HLA na uhusiano wake na magonjwa yanayoadhiri mfumo wa kinga mwilini. Nanjala pia ni mwenye shauku ya kujenge uwezo wa bioinfomatiki barani Africa. Amejihusisha na miradi tofauti inayochangia maarifa ya bionfomatiki kwa wanasayansi barani Africa. Nanjala ana mafunzo rasmi ya Bioinfomatiki na Microbiolojia.
   
 ## Sarah Nyanchera
 ![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
