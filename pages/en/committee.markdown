@@ -22,9 +22,9 @@ Pauline Karega is a bioinformatics student and researcher working on evolutionar
 Margaret serves the role of secretary to the BHKI steering committee. She is a bioinformatician with a keen interest in omics and big data analysis.
   
 ## Kennedy Mwangi
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Kennedy's Profile Photo]({{ site.baseurl }}/assets/images/Kennedy_prof_pic.jpg){: height="150" width="150" }
   
-<!--add bio here-->
+Kennedy is a bioinformatician working on breast cancer genomic data. He is a founding member of the OpenScienceKE Initiative and a certified Carpentries instructor.
   
 ## Michael Kofia
 ![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png) 
